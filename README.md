@@ -1,26 +1,20 @@
 # Multi-Digit Reader
 
+Multi-Digit Reader is a data science-focused passion project designed to read and predict multiple user-inputted, hand-drawn digits using a neural network model trained on the MNIST dataset.
+
 ---
 
 ## ℹ️ About the Project
 
-The **Warehouse Management System** is an educational simulation that features:
+The **Multi-Digit Reader** is an software that features:
 
-- Multiple warehouse, item, supplier and customer tracking
-- Inventory panel with general and warehouse-specific views
-- CRUD operations through a GUI
-- SQL database connectivity
-- Simulated supply chain features (e.g., transfers, purchase orders, shipment approval)
+- 
 
 ---
 
 ## 🛠️ Built With
 
-- [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) — primary programming language
-- [WinForms](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/) — UI development
-- [Microsoft Visual Studio](https://visualstudio.microsoft.com/) — development environment
-- [SQL Server / MySQL](https://www.mysql.com/) — backend database
-- [Guna UI2](https://www.nuget.org/packages/Guna.UI2.WinForms/) — modern UI elements
+- 
 
 ---
 
@@ -30,10 +24,7 @@ The **Warehouse Management System** is an educational simulation that features:
 
 To run and build the project locally, you'll need:
 
-- Visual Studio (2022 or newer)
-- .NET Desktop Development workload installed
-- Access to a SQL database (e.g., SQL Server or MySQL)
-- Git (optional)
+- 
 
 ---
 
@@ -69,7 +60,7 @@ To run and build the project locally, you'll need:
 
 ## 📊 Results
 
-https://github.com/user-attachments/assets/eed1bafb-1466-4473-89d5-a069705174f7
+
 
 ## 📃 License
 
