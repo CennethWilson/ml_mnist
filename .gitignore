@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# PyInstaller
+*.spec
+dist/
+build/
+*.exe
+
+# VS/.NET
+bin/
+obj/
+*.suo
+*.user
+*.pdb
+
+# Other
+.env
+*.log
