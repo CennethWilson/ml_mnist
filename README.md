@@ -29,23 +29,21 @@ The **Multi-Digit Reader** is an software that features:
 
 ---
 
-## 📦 Getting Started
-
-### Prerequisites
-
-To run and build the project locally, you'll need:
-
-- 
-
----
-
 ### Installation & Setup
 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/CennethWilson/warehouse-management-system.git
-   cd warehouse-management-system
+   git clone https://github.com/CennethWilson/ml_mnist.git
+   cd ml-mnist
+
+2. ****
+
+3. ****
+
+4. ****
+
+5. ****
 
 6. **Run the application**
 
