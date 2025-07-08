@@ -3,7 +3,7 @@ cd /d %~dp0
 
 netstat -ano | find ":5000" > nul
 if errorlevel 1 (
-    start "" /B backend.exe
+    start "" /B backend\backend.exe
 )
 
 :waitloop
