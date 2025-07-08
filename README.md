@@ -37,17 +37,18 @@ The **Multi-Digit Reader** is an software that features:
    git clone https://github.com/CennethWilson/ml_mnist.git
    cd ml-mnist
 
-2. ****
+2. **Create the backend exe file**
 
+   - Open `backend/backend.py`
    
+   - Type in terminal:
+   ```bash
+   pyinstaller --onefile --noconsole backend.py
+   ```
    
-3. ****
+   - Move the resulting exe file to backend folder
 
-4. ****
-
-5. ****
-
-6. **Run the application**
+3. **Run the application**
 
    `Run start_app.bat`
 
