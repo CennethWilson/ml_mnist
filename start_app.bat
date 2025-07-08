@@ -15,4 +15,4 @@ if errorlevel 1 (
 
 start "" /WAIT ML_mnist.exe
 
-taskkill /F /IM backend.exe ? nul 2>&1
+taskkill /F /IM backend.exe > nul 2>&1
